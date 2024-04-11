@@ -93,6 +93,7 @@ main {
 }
 
 .link-group li a {
+  font-size: 14px;
   display: inline-block;
   width: 100%;
   border-radius: 7px;
